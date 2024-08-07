@@ -10,8 +10,8 @@ Included match-level statistics such as total shots on and off target, as well a
 
 1. Top 3 teams with highest home match wins and goals:
 
-  a. Wins: ATLETICO MADRID, SEVILLA FC, REAL MADRID
+      a. Wins: ATLETICO MADRID, SEVILLA FC, REAL MADRID
   
-  b. Goals: BARCELONA, ATLETICO MADRID, VALENCIA
+      b. Goals: BARCELONA, ATLETICO MADRID, VALENCIA
   
 2. Top 3 teams with highest home match wins and goals:
