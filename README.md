@@ -5,3 +5,12 @@
 - Designed a match statistics page, integrating home and away team slicers for user flexibility. Additionally incorporated managers and captains details, providing insights into leadership.
 - Utilized gauge visuals to depict key metrics such as pass accuracy and possession percentage, enabling quick and intuitive interpretation of performance indicators.
 Included match-level statistics such as total shots on and off target, as well as the number of red cards, offering a holistic view of match dynamics and outcomes.
+
+## Insights:
+
+1. Top 3 teams with highest home match wins and goals:
+
+  a. Wins: ATLETICO MADRID, SEVILLA FC, REAL MADRID
+  b. Goals: BARCELONA, ATLETICO MADRID, VALENCIA
+  
+2. Top 3 teams with highest home match wins and goals:
