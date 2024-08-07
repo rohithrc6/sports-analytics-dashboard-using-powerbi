@@ -1,5 +1,5 @@
 # Interactive Sports Analytics Dashboard: Visualizing Key Statistics & Team-Specific Insights in Power BI
-## Summary 📋: 
+## Summary 📋 : 
 - Implemented interactive buttons as bookmarks to switch between KPI cards and tables displaying key statistics for home and away matches including a match statistics page navigation button.
 - Developed DAX measures to calculate essential metrics such as total wins, total goals, average pass accuracy, and possession for each team's home and away games.
 - Downloaded team-level datasets relevant to match analysis and integrated them into the existing data infrastructure using merge queries to perform in-depth analysis and derive and insights.
@@ -7,7 +7,7 @@
 - Utilized gauge visuals to depict key metrics such as pass accuracy and possession percentage, enabling quick and intuitive interpretation of performance indicators.
 Included match-level statistics such as total shots on and off target, as well as the number of red cards, offering a holistic view of match dynamics and outcomes.
 
-## Insights ✅:
+## Insights ✅ :
 
 Based on the provided Power BI dashboard for La Liga statistics, here are some valuable insights:
 
