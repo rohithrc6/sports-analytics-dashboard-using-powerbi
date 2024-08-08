@@ -7,7 +7,7 @@
 - Utilized gauge visuals to depict key metrics such as pass accuracy and possession percentage, enabling quick and intuitive interpretation of performance indicators.
 Included match-level statistics such as total shots on and off target, as well as the number of red cards, offering a holistic view of match dynamics and outcomes.
 
-## Insights ✅ :
+## Insights 📈 :
 
 Based on the provided Power BI dashboard for La Liga statistics, here are some valuable insights:
 
