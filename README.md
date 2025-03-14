@@ -62,4 +62,5 @@ Based on the provided Power BI dashboard for La Liga statistics, here are some v
    - Work on defensive solidity and effective counter-attacks to boost away performance.
 
 These insights provide a comprehensive view of the teams' performances, highlighting areas of strength and opportunities for improvement.
-https://app.powerbi.com/groups/me/reports/61c66efa-8f23-4e8e-9f52-adc72f51c4de/ReportSection391a63dc3c70b1140131?experience=power-bi
+
+[PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/61c66efa-8f23-4e8e-9f52-adc72f51c4de/ReportSection391a63dc3c70b1140131?experience=power-bi)
