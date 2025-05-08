@@ -4,6 +4,9 @@
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/4bbbfbb6-d6d0-43c0-9282-8a9cce21d53f" />
 
+![image](https://github.com/user-attachments/assets/3e794762-0658-4ae6-ad0a-f15ff6241713)
+
+
 
 ## Summary 📋 : 
 - Implemented interactive buttons as bookmarks to switch between KPI cards and tables displaying key statistics for home and away matches including a match statistics page navigation button.
