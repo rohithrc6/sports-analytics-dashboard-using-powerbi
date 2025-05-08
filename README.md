@@ -63,4 +63,9 @@ Based on the provided Power BI dashboard for La Liga statistics, here are some v
 
 These insights provide a comprehensive view of the teams' performances, highlighting areas of strength and opportunities for improvement.
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/4c9d8ecb-706a-49f9-b4d5-6cbf894a9dd5" />
+
+
+
+
 [PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/61c66efa-8f23-4e8e-9f52-adc72f51c4de/ReportSection391a63dc3c70b1140131?experience=power-bi)
